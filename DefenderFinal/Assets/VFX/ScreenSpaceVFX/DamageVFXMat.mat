@@ -41,7 +41,7 @@ Material:
     - _DamageVIngettePower: 8
     - _DamageVingetteIntensity: 1.5
     - _PulseSpeed: 2
-    - _TowerDamage: 0
+    - _TowerDamage: 1
     m_Colors:
     - _PulseColour: {r: 0.4811321, g: 0.015886446, b: 0.015886446, a: 1}
   m_BuildTextureStacks: []

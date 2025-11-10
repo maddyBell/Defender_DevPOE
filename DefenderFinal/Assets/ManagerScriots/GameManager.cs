@@ -107,7 +107,7 @@ public class GameManager : MonoBehaviour
     public void ExitToOpeningScene()
     {
         UnpauseGame();
-        SceneManager.LoadScene("OpeningScene");
+        SceneManager.LoadScene("OpenScene");
     }
 
     // --- Game Over ---
