@@ -18,7 +18,7 @@ public class OpeningManager : MonoBehaviour
 
     public void StartGame()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("GameScene"); //loading in the game 
+        UnityEngine.SceneManagement.SceneManager.LoadScene("DefenderGameScene"); //loading in the game 
     }
     public void QuitGame()
     {
